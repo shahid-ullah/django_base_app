@@ -1,0 +1,11 @@
+ipython
+pip-tools
+black
+isort
+djhtml
+flake8
+django-debug-toolbar
+django-extensions
+django-environ
+whitenoise
+django
