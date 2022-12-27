@@ -12,6 +12,7 @@
 
 ```sh
 $ git clone git@github.com:shahid-ullah/django_base_app.git
+$ cd django_base_app
 $ virtualenv .venv
 $ source .venv/bin/activate
 $ touch .env
