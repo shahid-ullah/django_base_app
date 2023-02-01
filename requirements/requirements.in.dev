@@ -4,6 +4,7 @@ black
 isort
 djhtml
 flake8
+pylint
 django-debug-toolbar
 django-extensions
 django-environ
