@@ -3,3 +3,5 @@ Django
 mysqlclient
 whitenoise
 django-environ
+django-debug-toolbar
+django-extensions
